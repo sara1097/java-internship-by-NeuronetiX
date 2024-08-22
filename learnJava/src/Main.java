@@ -94,7 +94,7 @@ public class Main {
                     }
                     break;
                 default:
-                    System.out.println("Invalinumber.");
+                    System.out.println("Invalinumber. try again");
             }
         }while(number!=5);
 
